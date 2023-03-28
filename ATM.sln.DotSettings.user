@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86b6947a_002Df14f_002D48f6_002Dafc9_002D2ff3c5c22522/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Withdraw_Exact_Notes" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_Exact_Notes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_Duplicate_Amount_Of_Notes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_Combination_of_Notes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eb8420e5_002D00cc_002D4173_002D847b_002D77b73ca1d940/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Withdraw_Exact_Notes #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_Exact_Notes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_Duplicate_Amount_Of_Notes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_Combination_of_Notes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_Combination_of_Notes_But_Not_The_Highest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_impossible_value&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::88A0F812-6FD2-43FF-8D48-E8F6336425E2::net6.0::Tests.AtmTests.Withdraw_impossible_value_smaller&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
